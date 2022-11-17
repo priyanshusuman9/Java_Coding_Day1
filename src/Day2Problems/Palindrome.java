@@ -1,4 +1,4 @@
-package Day2Problems;
+package Class1.src.com.RFP_Batch225.Day2PracticeProblem;
 
 import java.util.*;
 public class Palindrome
